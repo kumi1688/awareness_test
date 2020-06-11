@@ -19,21 +19,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".snapshot.headphone.HeadphoneActivity" />
-        <activity android:name=".fence.headphone.HeadphoneFenceActivity" />
-
-
-
-
-
 
         <meta-data
             android:name="com.google.android.awareness.API_KEY"
-            android:value="AIzaSyBD0A7bTA5mEl5G1odnxfz-TzJFsaD7wr4" />
+            android:value="AIzaSyBD0A7bTA5mEl5G1odnxfz-TzJFsaD7wr4"/>
+
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBD0A7bTA5mEl5G1odnxfz-TzJFsaD7wr4" />
+            android:value="AIzaSyBD0A7bTA5mEl5G1odnxfz-TzJFsaD7wr4"/>
     </application>
 
 </manifest>
